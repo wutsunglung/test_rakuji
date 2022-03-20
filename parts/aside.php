@@ -10,7 +10,7 @@
                 <a href="#" class="list-group-item list-group-item-action">庫存維護</a>
                 <a href="../inventory/pn_list.php" class="list-group-item list-group-item-action">品號維護</a>
                 <!-- <a href="#" class="list-group-item list-group-item-action">食材清單維護</a> -->
-                <!-- <a href="#" class="list-group-item list-group-item-action">統計報表</a> -->
+                <a href="#" class="list-group-item list-group-item-action">統計報表</a>
             </div>
         </div>
     </div>
